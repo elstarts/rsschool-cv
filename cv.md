@@ -31,7 +31,7 @@ console.log('Me first');
  ```
  #### Education and courses
 1. Course HTML & CSS, "CanSheCode" (in progress)
-2. Course JavaScript, "CanSheCode" (in progress)
+2. Course JavaScript, "CanSheCode" (in progress, 2022)
 
 #### Languages:
 * Russian - C1
