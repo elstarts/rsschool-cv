@@ -29,8 +29,8 @@ futureData.then(display);
 console.log('Me first');
  ```
  #### Education and courses
-1. Course HTML & CSS, "CanSheCode" (in progress)
-2. Course JavaScript, "CanSheCode" (in progress)
+1. Course HTML & CSS, "CanSheCode" (in progress from January, 2022)
+2. Course JavaScript, "CanSheCode" (in progress from May, 2022)
 
 #### Languages:
 * Russian - C1
